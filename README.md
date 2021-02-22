@@ -1,7 +1,6 @@
 # Decision-Tree-Classification
 This project uses the Decision Tree Classifier algorithm to predict income levels based off of certain values. It uses attributes such as occupation, relationship status, age and more to predict whether an individual will make over or under $50,000.
 
-
 ![enter image description here](https://media.istockphoto.com/vectors/decision-diagram-color-icon-block-chart-problem-solutions-operations-vector-id1200922650?k=6&m=1200922650&s=612x612&w=0&h=1DuG0eg_NnGBTBOyvH8C6ohVV0f8phln4zPrum62gLw=)
 ## Steps
 1. Cleaning and preparing the data
@@ -23,12 +22,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 from collections import Counter
-from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import precision_score
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.externals.six import StringIO
 from sklearn.metrics import confusion_matrix
 from sklearn.tree import export_graphviz
 from IPython.display import Image
