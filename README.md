@@ -5,7 +5,7 @@ This project uses the Decision Tree Classifier algorithm to predict income level
 ## Steps
 1. Cleaning and preparing the data
 2. Examining descriptive stats of each attribute/column
-3. Displaying stats via barc charts
+3. Displaying stats via bar charts
 4. Creating dummy variable dataset
 5. Making Decision Tree classifier Function
 6. Evaluating performance metrics of the model
