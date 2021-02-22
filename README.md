@@ -2,6 +2,7 @@
 This project uses the Decision Tree Classifier algorithm to predict income levels based off of certain values. It uses attributes such as occupation, relationship status, age and more to predict whether an individual will make over or under $50,000.
 
 
+![enter image description here](https://media.istockphoto.com/vectors/decision-diagram-color-icon-block-chart-problem-solutions-operations-vector-id1200922650?k=6&m=1200922650&s=612x612&w=0&h=1DuG0eg_NnGBTBOyvH8C6ohVV0f8phln4zPrum62gLw=)
 ## Steps
 1. Cleaning and preparing the data
 2. Examining descriptive stats of each attribute/column
@@ -54,4 +55,3 @@ This project is licensed under the  [MIT](https://choosealicense.com/licenses/mi
 ## Acknowledgements
 
 The project files were provided by Arin Brahma, Loyola Marymount University.
-
