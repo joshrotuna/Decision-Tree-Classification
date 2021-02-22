@@ -18,17 +18,29 @@ This project uses the Decision Tree Classifier algorithm to predict income level
 
 ## Packages 
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import os
+
 from collections import Counter
+
 from sklearn.metrics import accuracy_score
+
 from sklearn.metrics import recall_score
+
 from sklearn.metrics import precision_score
+
 from sklearn.tree import DecisionTreeClassifier
+
 from sklearn.metrics import confusion_matrix
+
 from sklearn.tree import export_graphviz
+
 from IPython.display import Image
+
 from google.colab import drive
 
 ## Launch
